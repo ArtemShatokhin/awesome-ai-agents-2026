@@ -399,7 +399,6 @@
 
 | Tool | Description |
 |------|-------------|
-| [Kortix](https://github.com/kortix-ai/suna) | Open-source AI operating system you host: agents, grants and memory as files in git; 20k+ stars. Elastic License 2.0 (source-available). |
 | [Ollama](https://github.com/ollama/ollama) | Run LLMs locally. 162k+ stars. Dead simple CLI. |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | C/C++ inference. CPU, GPU, Apple Silicon. Foundation of local AI. |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput serving. PagedAttention. Production-grade. |
